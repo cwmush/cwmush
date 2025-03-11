@@ -1,13 +1,40 @@
-<h1 align="center">Hi 👋, I'm Carmen</h1>
-<h3 align="center">Curious technologist and connector of ideas and people, with a knack for merging analytical and artistic mindsets. Whether dissecting urban design patterns during city exploration, or coordinating pickleball team dynamics, I enjoy identifying patterns and driving cross-functional alignment to achieve shared goals.</h3>
+## Hi! I'm Carmen 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cwmush&label=Profile%20views&color=0e75b6&style=flat" alt="cwmush" /> </p>
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V0eXo2dDM0eHBpZGQxdWloZ2JtZ2VmNHZxNXZwYTI4bGU3NWU0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
+</div>
 
-- 📫 How to reach me **carmenwong.cwong@gmail.com**
+### About Me
+I'm a curious technologist and connector of ideas and people! I love creating things and building solutions. When I'm not coding, you can find me doing other fun things like:
+- 🐱 **Playing with my 10 cats** (they definitely keep me busy!)
+- 🚶‍♀️ **City walks and food explorations** – Always searching for the best local eats.
+- 🍳 **Experimenting with new recipes in the kitchen** – I love creating tasty (and sometimes experimental) dishes.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### Skills and Technologies
+Here are some of the tools and languages I work with:
+- **Languages:** Python, JavaScript, HTML, CSS, SQL
+- **Frameworks/Libraries:** React, Flask, Django
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **DevOps:** Docker, Kubernetes, CI/CD
+- **Tools:** Git, GitHub, VS Code, Jira
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+### 🌐 Let's Connect!
+Feel free to reach out to me through any of the following platforms:
+
+- 💻 [Carmen's GitHub](https://github.com/cwmush)
+- 💼 [LinkedIn](https://linkedin.com/in/carmen-wong0008)
+- 📧 [Email me](mailto:carmenwong.cwong@gmail.com)
+
+---
+
+### GitHub Stats
+![Carmen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cwmush&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
+
+---
+
+### Fun Fact:
+Did you know I have **10 cats**? Feel free to connect if you're a cat person too! 😺
+
+
+
